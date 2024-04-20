@@ -1,3 +1,3 @@
 # My-first-project
-web development
+web development.
 Author - Santosh kumar
